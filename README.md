@@ -1,6 +1,10 @@
 # html-editor
 Simple Vanilla Javascript HTML Editor for WYSIWYG rich text textarea fields
 
+## Live Example
+
+https://aaronjaylev.github.io/html-editor/
+
 ## Author
 
 - Aaron Jay Lev
