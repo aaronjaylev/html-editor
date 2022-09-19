@@ -1,6 +1,8 @@
 # html-editor
 Simple Vanilla Javascript HTML Editor for WYSIWYG rich text textarea fields
 
+This code is not meant to be a stand-alone webpage editor/creator but instead meant to be able to modify or style a section of HTML content.
+
 ## Live Example
 
 https://aaronjaylev.github.io/html-editor/
