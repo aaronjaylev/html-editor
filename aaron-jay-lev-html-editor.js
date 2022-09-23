@@ -48,7 +48,7 @@ document.addEventListener("DOMContentLoaded", function () {
             '<a href="#" data-command="justifyFull" class="groupEnd"><i class="fa-solid fa-align-justify"></i></a>' +
 
             '<a href="#" data-command="indent" class="groupStart"><i class="fa-solid fa-indent"></i></a>' +
-            '<a href="#" data-command="outdent class="groupEnd"><i class="fa-solid fa-outdent"></i></a>' +
+            '<a href="#" data-command="outdent" class="groupEnd"><i class="fa-solid fa-outdent"></i></a>' +
 
             '<a href="#" data-command="insertUnorderedList" class="groupStart"><i class="fa-solid fa-list-ul"></i></a>' +
             '<a href="#" data-command="insertOrderedList" class="groupEnd"><i class="fa-solid fa-list-ol"></i></a>' +
